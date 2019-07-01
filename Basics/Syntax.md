@@ -17,6 +17,7 @@ Se um arquivo for código PHP puro, é preferível omitir a tag de fechamento `?
  ```
 
  **!!Aviso!!**
+ 
 | Versão | Descrição |
 |--------|-----------|
  | 7.0.0 | As tags ASP `<%`, `%>`, `<%=` e a script tag `<script language="php">` foram removidos do PHP.|
