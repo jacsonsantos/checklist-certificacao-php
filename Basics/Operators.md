@@ -59,7 +59,7 @@ Operadores bit-a-bit permitem a avaliação e modificação de bits específicos
 | nome | operador | exemplo |
 |------|----------|---------|
 | E (AND) | `&` | `$a & $b` |
-| OU (OR inclusivo) | ` | ` | ` $a | $b ` |
+| OU (OR inclusivo) | ` &#124; ` | ` $a &#124; $b ` |
 | XOR (OR exclusivo) | `^` | `$a ^ $b` |
 | NÃO (NOT) | `~` | `~ $a` |
 | Deslocamento à esquerda | `<<` | `$a << $b` |
